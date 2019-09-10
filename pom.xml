@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>bcard-app-rls</id>
       <name>bcard-app-rls</name>
-      <url>http://ec2-54-174-93-115.compute-1.amazonaws.com:8081/nexus/content/repositories/bcard-app-rls/</url>
+      <url>http://ip-172-31-86-217.ec2.internal:8081/nexus/content/repositories/bcard-app-rls/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>bcard-app-snapshots</id>
       <name>bcard-app-snapshots</name>
-      <url>http://ec2-54-174-93-115.compute-1.amazonaws.com:8081/nexus/content/repositories/bcard-app-snapshots/</url>
+      <url>http://ip-172-31-86-217.ec2.internal:8081/nexus/content/repositories/bcard-app-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>    
   </distributionManagement>
